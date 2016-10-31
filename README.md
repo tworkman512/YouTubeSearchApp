@@ -1,8 +1,10 @@
+![Image of Redux Weather Forecast App]()
+
 # YouTubeSearchApp
 
 ###About###
 
-I built this app using the boilerplate provided in Stephen Grider's Udemy.com [course.](https://www.udemy.com/react-redux/) 
+I built this app using the boilerplate provided in Stephen Grider's Udemy.com [course.](https://www.udemy.com/react-redux/)
 
 ###Getting Started###
 
@@ -13,4 +15,5 @@ Clone the repo, install the dependencies and then start the gulp process by doin
 	> cd YouTubeSearchApp
 	> npm install
 	> npm start
+
 ```
