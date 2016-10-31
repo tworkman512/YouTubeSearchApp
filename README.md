@@ -1,4 +1,4 @@
-![Image of Redux Weather Forecast App]()
+![Image of Redux Weather Forecast App](https://github.com/tworkman512/YouTubeSearchApp/blob/master/src/images/YouTubeSearchApp_Screen.png)
 
 # YouTubeSearchApp
 
